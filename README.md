@@ -1,18 +1,53 @@
-# 💫 About Me:
-Computer Engineering student with knowledge of programming in C++, Java, and Ruby, among other languages. Currently expanding my training in cybersecurity and information technologies. Responsible person with strong learning ability and motivation to continue developing professionally in the technological field.
+## Building in public
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saturno-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saturno-codes&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saturno-codes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# saturno
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+> Technical founder
 
----
-[![](https://visitcount.itsvg.in/api?id=saturno-codes&icon=0&color=4)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=soymarta&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128072921%3Fu%3Db596c389ace5c7fcdb05614fe907b03b2e3b6dd5%26v%3D4" alt="soymarta hero visual" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## The point of view
+
+> Building useful things and learning in public.
+
+- 👥 **0** followers · **1** following
+
+*Small, useful work over vague claims.*
+
+## What I’m shipping
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=soymarta&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128072921%3Fu%3Db596c389ace5c7fcdb05614fe907b03b2e3b6dd5%26v%3D4" alt="soymarta highlights visual" />
+</p>
+
+<p><b>saturno</b> is shipping 3 public projects with 0 stars of proof.</p>
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/soymarta/TW2">TW2</a></b></td><td>Parte dinámica del proyecto de TW.<br/><sub>Blade · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/soymarta/TW2-Artesania">TW2-Artesania</a></b></td><td>Parte dinámica del proyecto de TW.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/soymarta/saturno-codes">saturno-codes</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>12</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=soymarta&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128072921%3Fu%3Db596c389ace5c7fcdb05614fe907b03b2e3b6dd5%26v%3D4" alt="soymarta social visual" />
+</p>
+
+<a href="https://github.com/soymarta">GitHub</a>
+
+<p align="center"><sub>saturno · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
