@@ -1,10 +1,6 @@
-## Building in public
-
 <div align="center">
 
 # saturno
-
-> Technical founder
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=soymarta&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F128072921%3Fu%3Db596c389ace5c7fcdb05614fe907b03b2e3b6dd5%26v%3D4" alt="soymarta hero visual" />
